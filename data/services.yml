@@ -1,7 +1,7 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
-enable: true
-title: BeeData Academy
+enable: false
+title: ""
 services:
   - icon: ti-user
     title: Trainers
