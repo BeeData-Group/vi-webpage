@@ -1,7 +1,7 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "https://www.learnwithbeedata.com"
 languageCode = "en-us"
-title = "BeeData | Nắm bắt cơ hội, tạo ra giá trị"
+title = "BeeData | By Engineers, For Engineers"
 theme = "apsho-hugo-theme"
 
 # Navigation Bar
@@ -19,7 +19,7 @@ theme = "apsho-hugo-theme"
 #     weight = 3
 [[menu.main]]
     name = "Blog"
-    url = "#blog"
+    url = "/blog"
     weight = 4
 
 # Footer Sitemap
@@ -43,7 +43,7 @@ theme = "apsho-hugo-theme"
 # Footer Address
 [params.address]
 address = "Singapore"
-email = "hello@beedatasolutions.com"
+email = "hello@learnwithbeedata.com"
 phone = "+(65) 90537440"
 
 # Footer Social
@@ -62,7 +62,7 @@ googleAnalytics = "UA-175025671-2"
 # Footer
 footerTitle = "Tìm hiểu thêm về dịch vụ tư vấn"
 copyright1 = "All right reserved"
-copyright2 = "Copyright ©  <a href=\"https://beedatasolutions.com\" target=\"_blank\">BeeData Solutions </a> {year}"
+copyright2 = "Copyright ©  <a href=\"https://www.learnwithbedata.com\" target=\"_blank\">Learn with BeeData </a> {year}"
 
 #contact
-email = "help@staticmania.com"
+email = "contact@learnwithbeedata.com"
